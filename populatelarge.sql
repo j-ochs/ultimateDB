@@ -1,0 +1,13 @@
+\COPY Player from 'playerFake.csv' with (format csv);
+\COPY Stats from 'statsFake.csv' with (format csv);
+\COPY Team from 'teamFake.csv' with (format csv);
+\COPY League from 'leagueFake.csv' with (format csv);
+\COPY Coach from 'coachFake.csv' with (format csv);
+\COPY Game from 'gameFake.csv' with (format csv);
+\COPY PlaysFor from 'playsForFake.csv' with (format csv);
+\COPY Records from 'recordsFake.csv' with (format csv);
+\COPY Participates from 'participatesFake.csv' with (format csv);
+\COPY CompetesIn from 'competesInFake.csv' with (format csv);
+\COPY Organizes from 'organizesFake.csv' with (format csv);
+\COPY Trains from 'trainsFake.csv' with (format csv);
+\COPY Increments from 'incrementsFake.csv' with (format csv);

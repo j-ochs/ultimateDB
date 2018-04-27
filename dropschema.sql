@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS Player, Stats, Team, League, Coach, Game, PlaysFor, Records, Participates, CompetesIn, Organizes, Trains, Increments
